@@ -1,1 +1,1 @@
-worker: node ZinoxHD BOT.js
+ npm start ZinoxHD BOT.js
